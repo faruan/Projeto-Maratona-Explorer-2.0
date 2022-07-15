@@ -12,8 +12,6 @@ Esse projeto foi desenvolvido durante a Maratona Explorer da RocketSeat!!! :rock
 
 ## **Sobre o repositório**
 
----
-
 Esse repositório contém todo código utilizado na Maratona Explorer e com algumas customizações.
 
 Evento realizado entre os dias 03 e 06 de julho.
@@ -23,8 +21,6 @@ Espero que curtam!! :grin:
 <br>
 
 ## **Linguagens utilizadas**
-
----
 
 - HTML 5
 - CSS 3
